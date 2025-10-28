@@ -6,7 +6,7 @@ GEM
     actionview (4.2.7)
     ...
     rack (1.6.0)
-    nokogiri (1.6.7)
+    nokogiri (1.10.5)
     devise (3.5.2)
 
 PLATFORMS
